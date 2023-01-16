@@ -1,0 +1,24 @@
+.ptt {
+    padding-top: 70px;
+}
+
+.imgr {
+    border: 3px solid #ddd;
+    border-radius: 50px;
+    max-height: 280px;
+    max-widht: 280px;
+}
+
+.bgr {
+    background-color: #1976D2;
+    /* opacity: 0.10; */
+}
+
+.sdw {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.fss{
+    font-size: 30px;
+
+}
